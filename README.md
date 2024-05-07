@@ -65,12 +65,12 @@ The experimentation was necessary since it should be pointed out that while the 
 ## Screenshots
 Here are the screenshots from my Postman App:
 
-![](../social-network-api-m18/screenshots/GET%20Users%20Screenshot.png)
+![](/screenshots/GET%20Users%20Screenshot.png)
 
-![](../social-network-api-m18/screenshots/DELETE%20New%20User%20Screenshot.png)
+![](/screenshots/DELETE%20New%20User%20Screenshot.png)
 
-![](../social-network-api-m18/screenshots/GET%20Thoughts%20Screenshot.png)
+![](/screenshots/GET%20Thoughts%20Screenshot.png)
 
-![](../social-network-api-m18/screenshots/POST%20Thoughts%20Screenshot.png)
+![](/screenshots/POST%20Thoughts%20Screenshot.png)
 
-![](../social-network-api-m18/screenshots/POST%20Reactions%20Screenshot.png)
+![](/screenshots/POST%20Reactions%20Screenshot.png)
